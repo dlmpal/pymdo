@@ -1,0 +1,4 @@
+build/
+dist/
+pymdo.egg-info/
+test.py
